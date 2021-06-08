@@ -34,12 +34,7 @@ body {
   display: flex;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
+
 
 
 /* GENERAL */
@@ -184,6 +179,13 @@ a:visited {
   font-size: 1.3rem;
   text-align: center;
   color: var(--color-light--1);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .twitter-link:link,
