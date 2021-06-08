@@ -34,6 +34,14 @@ body {
   display: flex;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
 /* GENERAL */
 a:link,
 a:visited {
